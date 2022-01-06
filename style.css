@@ -1,0 +1,176 @@
+p{
+    text-align: justify;
+    margin-bottom: 5%;
+}
+
+.border{
+    border-left: 7px solid;
+    border-color: lightsalmon;
+    border-image-slice: 1;
+}
+.border h1{
+    margin-left: 5px;
+}
+
+
+section{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+    
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.blue{
+    color: rgb(41, 20, 235);
+}
+
+.explore{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(67, 25, 218), rgb(202, 20, 105));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 78%;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+
+
+
+
+#middle{
+    text-align: center;
+}
+
+#year{
+    color: Crimson;
+}
+
+
+#section2{
+    text-align: center;
+
+}
+.section2 p{
+    text-align: center;
+    margin-right: 30px;
+}
+
+.div-color1{
+    background-color: lightskyblue;
+    border-radius: 5%;
+    
+    margin-right:30px;
+    text-align: center;
+}
+
+.div-color2{
+    background-color: MistyRose;
+    border-radius: 5%;
+    
+    margin-right:30px;
+    text-align: center;
+}
+.div-color3{
+    background-color: Teal;
+    border-radius: 5%;
+    text-align: center;
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section3{
+    margin-top: 6%;
+    display: flex;
+    text-align:justify;
+    
+}
+
+.section3 img{
+    width: 40%;
+}
+
+.develop{
+    margin-right: 307px;
+    margin-left: -380px;
+}
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 0, 85), rgb(240, 136, 95));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.section4{
+    margin-top: 5%;
+    
+}
+.background4{
+    display: flex;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    
+    background-size: 200px 200px;
+    background-position: right;
+    background-attachment: scroll;
+}
+
+
+.global-community{
+    width: 50%;
+    margin-right: 5%;
+}
+
+.project{
+    width: 40%;
+
+   
+}
+
+#paragraph-bottom{
+margin-bottom: 8%;
+}
+
+.tomato{
+    color: tomato;
+}
+#freelancer{
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+}
+.mission-h1{
+    color: blanchedalmond;
+}
+#red{
+    color: rgb(189, 21, 21);
+}
+#small-white{
+    color: white;
+    margin-bottom: 20px;
+}
